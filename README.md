@@ -53,9 +53,6 @@ npm start
 - [后端文档](./user-center-backend-master/README.md)
 - [前端文档](./user-center-frontend-master/README.md)
 
-## 系统预览
-
-![系统预览](./user-center-backend-master/doc/img.png)
 
 ## 部署方式
 
